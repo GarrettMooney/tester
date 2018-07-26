@@ -3,6 +3,8 @@
 status](https://travis-ci.org/GarrettMooney/tester.svg?branch=master)](https://travis-ci.org/GarrettMooney/tester)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/GarrettMooney/tester?branch=master&svg=true)](https://ci.appveyor.com/project/GarrettMooney/tester)
+[![Coverage
+status](https://codecov.io/gh/GarrettMooney/tester/branch/master/graph/badge.svg)](https://codecov.io/github/GarrettMooney/tester?branch=master)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
