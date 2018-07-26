@@ -1,4 +1,7 @@
 
+[![Travis build
+status](https://travis-ci.org/GarrettMooney/tester.svg?branch=master)](https://travis-ci.org/GarrettMooney/tester)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # tester
